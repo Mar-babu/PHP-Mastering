@@ -9,12 +9,12 @@ printf("%10.18f", $mt);
 */
 //echo date('d/F/y');
 
-$starTime = microtime(true);
+$startTime = microtime(true);
 factorial(100);
 sleep(2);
 $endTime =microtime(true);
 
-$executionTime = $endTime - $starTime;
+$executionTime = $endTime - $startTime;
 printf("%10.8f", $executionTime);
 
 function factorial($n){
