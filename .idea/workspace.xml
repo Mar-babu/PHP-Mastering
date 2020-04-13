@@ -12,18 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHP 11/১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +27,9 @@
         <option value="$PROJECT_DIR$/PHP 10/১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
         <option value="$PROJECT_DIR$/PHP 10/১০.১ - পিএইচপিতে টাইম নিয়ে কাজ করা, মাইক্রোটাইম এবং বেঞ্চমার্কিং.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
       </list>
     </option>
   </component>
@@ -52,7 +44,7 @@
       <path value="C:\xampp\php\php.exe" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="732" />
@@ -74,6 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,12 +74,16 @@
               <item name="Php" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="Php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP 11" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,23 +107,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php">
-    <configuration name="১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 10/১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php" />
+  <component name="RunManager" selected="PHP Script.১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php">
+    <configuration name="১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php" />
+    <configuration name="১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" />
     <configuration name="১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 10/১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
-    <configuration name="১০.২ - পিএইচপিতে ডেট ফরম্যাট নিয়ে কাজ করা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 10/১০.২ - পিএইচপিতে ডেট ফরম্যাট নিয়ে কাজ করা.php" />
-    <configuration name="১০.১ - পিএইচপিতে টাইম নিয়ে কাজ করা, মাইক্রোটাইম এবং বেঞ্চমার্কিং.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 10/১০.১ - পিএইচপিতে টাইম নিয়ে কাজ করা, মাইক্রোটাইম এবং বেঞ্চমার্কিং.php" />
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.১০.১ - পিএইচপিতে টাইম নিয়ে কাজ করা, মাইক্রোটাইম এবং বেঞ্চমার্কিং.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.১০.২ - পিএইচপিতে ডেট ফরম্যাট নিয়ে কাজ করা.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
+    <configuration name="১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
+    <configuration name="১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.১০.২ - পিএইচপিতে ডেট ফরম্যাট নিয়ে কাজ করা.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.১০.১ - পিএইচপিতে টাইম নিয়ে কাজ করা, মাইক্রোটাইম এবং বেঞ্চমার্কিং.php" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.১০.৪ - স্ট্রিং থেকে ইউনিক্স টাইমস্ট্যাম্প বানানো (ডেট পার্সিং) এবং দুইটি ডেটের মাঝে হিউম্যান রিডেবল ডিফারেন্স বের করা.php" />
       </list>
     </recent_temporary>
   </component>
@@ -143,26 +143,27 @@
       <workItem from="1585500369673" duration="3270000" />
       <workItem from="1585545672520" duration="4051000" />
       <workItem from="1585554721183" duration="4505000" />
-      <workItem from="1586708175453" duration="2425000" />
+      <workItem from="1586708175453" duration="2627000" />
+      <workItem from="1586764054760" duration="11586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14251000" />
+    <option name="totallyTimeSpent" value="26039000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-6" y="1" width="732" height="788" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25892857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24046434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6656201" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40630183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -183,11 +184,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PHP 10/১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -195,9 +203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#27#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -205,7 +210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -234,7 +238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -321,7 +324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-234">
           <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -329,9 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="e#6#27#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -339,7 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -347,14 +345,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP 11/১১.২ - ক্লাস, অবজেক্ট, মেথড এবং প্রোপার্টি.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="52">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৩ - ক্লাসের কনস্ট্রাকটর মেথড যেটা ক্লাস থেকে অবজেক্ট তৈরী হবার সময় নিজে থেকেই রান হয়.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
           <folding />
         </state>
       </provider>
