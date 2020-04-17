@@ -11,13 +11,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHP 11/১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php">
+    <leaf>
+      <file leaf-file-name="১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP 11/১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="415">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -46,6 +57,16 @@
         <option value="$PROJECT_DIR$/PHP 11/১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১১ - কিভাবে ফোর্স করার মাধ্যমে ওওপি দিয়ে বেটার কোড লেখা যায়.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১২ - ইন্টারফেস নিয়ে আলোচনা.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৩ - ক্লাসের স্ট্যাটিক মেথড এবং প্রোপার্টিজ.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৪ - চাইল্ড ক্লাসে স্ট্যাটিক মেথড ওভাররাইড নিয়ে আলোচনা.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৫ - স্ট্যাটিক স্কোপ নিয়ে আলোচনা.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php" />
+        <option value="$PROJECT_DIR$/PHP 11/১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" />
       </list>
     </option>
   </component>
@@ -61,8 +82,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="1" />
+    <option name="x" value="-7" />
     <option name="width" value="732" />
     <option name="height" value="788" />
   </component>
@@ -83,6 +103,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,12 +120,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news-site" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -123,27 +143,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php">
-    <configuration name="১১.৭ - প্যারেন্ট এবং চাইল্ড ক্লাসের স্কোপ নিয়ে আলোচনা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৭ - প্যারেন্ট এবং চাইল্ড ক্লাসের স্কোপ নিয়ে আলোচনা.php" />
-    <configuration name="১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php" />
-    <configuration name="১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
-    <configuration name="১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php" />
+  <component name="RunManager" selected="PHP Script.১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php">
+    <configuration name="১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php" />
     <configuration name="১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" />
-    <configuration name="১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php" />
+    <configuration name="১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php" />
+    <configuration name="১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php" />
+    <configuration name="১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php" />
+    <configuration name="১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" />
+    <configuration name="১১.১২ - ইন্টারফেস নিয়ে আলোচনা.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/১১.১২ - ইন্টারফেস নিয়ে আলোচনা.php" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php" />
       </list>
     </recent_temporary>
   </component>
@@ -163,27 +184,30 @@
       <workItem from="1586708175453" duration="2627000" />
       <workItem from="1586764054760" duration="12039000" />
       <workItem from="1586875182663" duration="5597000" />
-      <workItem from="1586970460093" duration="2535000" />
+      <workItem from="1586970460093" duration="3010000" />
+      <workItem from="1587032366161" duration="9281000" />
+      <workItem from="1587119572143" duration="1233000" />
+      <workItem from="1587134271725" duration="7234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34624000" />
+    <option name="totallyTimeSpent" value="52847000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="732" height="788" extended-state="0" />
+    <frame x="-7" y="0" width="732" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21428572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15476191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66248035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9466248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7910448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31083202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -208,9 +232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#769#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -275,7 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -290,7 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,16 +433,6 @@
         <state relative-caret-position="401">
           <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="e#486#902#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -448,16 +456,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-          <folding>
-            <element signature="e#7#769#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP 11/১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="208">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="e#486#902#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১১ - কিভাবে ফোর্স করার মাধ্যমে ওওপি দিয়ে বেটার কোড লেখা যায়.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১২ - ইন্টারফেস নিয়ে আলোচনা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৩ - ক্লাসের স্ট্যাটিক মেথড এবং প্রোপার্টিজ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৪ - চাইল্ড ক্লাসে স্ট্যাটিক মেথড ওভাররাইড নিয়ে আলোচনা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৫ - স্ট্যাটিক স্কোপ নিয়ে আলোচনা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৬ - ক্লাসে কনস্ট্যান্ট তৈরী করা.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৭ - পিএইচপি ক্লাসে ম্যাজিক মেথডস.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৮ - ইন্টারফেসের একটা প্র‍্যাকটিক্যাল উদাহরন.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৯ - কাউন্টেবল ইন্টারফেস - বেশ মজার.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 11/১১.২০ - পিএইচপিতে অবজেক্ট ক্লোনিং.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding />
         </state>
       </provider>
