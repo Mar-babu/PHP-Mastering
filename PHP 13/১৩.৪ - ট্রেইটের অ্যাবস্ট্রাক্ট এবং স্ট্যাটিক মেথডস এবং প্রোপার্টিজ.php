@@ -30,3 +30,5 @@ echo MyClassB::$number;
 
 $ma = new MyclassA();
 echo $ma::$number;
+
+//19-04-2020
