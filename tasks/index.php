@@ -145,7 +145,7 @@ $resultCompleteTasks = mysqli_query( $connection, $completeTasksQuery );
             <label for="date">Date</label>
             <input type="text" placeholder="Task Date" id="date" name="date">
 
-            <input class="button-primary" type="submit" value="Add Task">
+            <input class="button-primary" type="submit" name="submit" value="Add Task">
             <input type="hidden" name="action" value="add">
         </fieldset>
     </form>
