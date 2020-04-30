@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc6bfcc4-7749-49bb-8953-9c7a6e8fa683" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP23Curl/c1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP23Curl/c2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP23Curl/hello.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks/index.php" afterPath="$PROJECT_DIR$/tasks/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +28,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TaskController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Task-Manager/app/application/controllers/TaskController.php">
+      <file leaf-file-name="hello.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP23Curl/hello.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="104">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP23Curl/c1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP23Curl/c2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -37,13 +60,17 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>curl.ca</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PHP 09/session1.php" />
         <option value="$PROJECT_DIR$/PHP 08/inc/functions.php" />
         <option value="$PROJECT_DIR$/PHP 10/১০.২ - পিএইচপিতে ডেট ফরম্যাট নিয়ে কাজ করা.php" />
         <option value="$PROJECT_DIR$/PHP 10/১০.৩ - যেকোন দিন মাস বছর সময়ের ইউনিক্স টাইমস্ট্যাম্প তৈরী করা এবং জিএমটি টাইমস্ট্যাম্প তৈরী করা.php" />
@@ -87,6 +114,14 @@
         <option value="$PROJECT_DIR$/PHP 11/ns/main.php" />
         <option value="$PROJECT_DIR$/tasks/index.php" />
         <option value="$PROJECT_DIR$/Task-Manager/app/application/controllers/TaskController.php" />
+        <option value="$PROJECT_DIR$/PHP 01/PHP 23 Curl/hello.php" />
+        <option value="$PROJECT_DIR$/PHP 01/PHP 23 Curl/c1.php" />
+        <option value="$PROJECT_DIR$/PHP 23 Curl/c1.php" />
+        <option value="$PROJECT_DIR$/PHP 23 Curl/hello.php" />
+        <option value="$PROJECT_DIR$/PHP23Curl/hello.php" />
+        <option value="$PROJECT_DIR$/PHP23Curl/c1.php" />
+        <option value="$PROJECT_DIR$/PHP23Curl/c2.php" />
+        <option value="$PROJECT_DIR$/../../php/php.ini" />
       </list>
     </option>
   </component>
@@ -102,8 +137,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-77" />
-    <option name="y" value="7" />
+    <option name="x" value="-7" />
     <option name="width" value="732" />
     <option name="height" value="788" />
   </component>
@@ -123,6 +157,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,34 +169,23 @@
             <path>
               <item name="Php" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Task-Manager" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Task-Manager" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Task-Manager" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PHP23Curl" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Php" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Php" />
       <recent name="C:\xampp\htdocs\Php\PHP 11" />
@@ -179,28 +204,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php">
+  <component name="RunManager" selected="PHP Script.hello.php">
     <configuration name="১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" />
     <configuration name="১৩.৪ - ট্রেইটের অ্যাবস্ট্রাক্ট এবং স্ট্যাটিক মেথডস এবং প্রোপার্টিজ.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.৪ - ট্রেইটের অ্যাবস্ট্রাক্ট এবং স্ট্যাটিক মেথডস এবং প্রোপার্টিজ.php" />
     <configuration name="১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
     <configuration name="১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
     <configuration name="১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 12/১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
-    <configuration name="১২.২ - কাস্টম এক্সেপশন.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 12/১২.২ - কাস্টম এক্সেপশন.php" />
+    <configuration name="hello.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP23Curl/hello.php" />
     <configuration name="main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/ns/main.php" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.১২.২ - কাস্টম এক্সেপশন.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.hello.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.১২.২ - কাস্টম এক্সেপশন.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.hello.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.১৩.১ - ট্রেইট পরিচিতি এবং উপকারিতা এবং মাল্টিপল ট্রেইটস.php" />
       </list>
     </recent_temporary>
   </component>
@@ -234,24 +259,26 @@
       <workItem from="1587727883221" duration="7128000" />
       <workItem from="1588072824006" duration="627000" />
       <workItem from="1588172498688" duration="682000" />
-      <workItem from="1588176541567" duration="140000" />
+      <workItem from="1588176541567" duration="775000" />
+      <workItem from="1588250355565" duration="7242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101584000" />
+    <option name="totallyTimeSpent" value="109461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10514372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09152799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2885572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31083202" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31011608" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -262,25 +289,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50549453" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31083202" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11951589" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -293,48 +301,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৮ - ইনহেরিটেন্স নিয়ে আরও উদাহরন.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৯ - ওওপি তে অ্যাবস্ট্রাক্ট ক্লাস এবং অ্যাবস্ট্রাক্ট মেথড.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১০ - ইনহেরিটেন্সে ফাইনাল কিওয়ার্ডের ব্যবহার.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১২ - ইন্টারফেস নিয়ে আলোচনা.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৩ - ক্লাসের স্ট্যাটিক মেথড এবং প্রোপার্টিজ.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP 11/১১.১৪ - চাইল্ড ক্লাসে স্ট্যাটিক মেথড ওভাররাইড নিয়ে আলোচনা.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -626,14 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="49" column="52" lean-forward="false" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
-          <folding>
-            <marker date="1566343910000" expanded="true" signature="526:593" ph="INSERT INTO ${DB_TABLE}... " />
-            <marker date="1566343910000" expanded="true" signature="795:849" ph="UPDATE tasks... " />
-            <marker date="1566343910000" expanded="true" signature="1037:1081" ph="DELETE FROM " />
-            <marker date="1566343910000" expanded="true" signature="1273:1327" ph="UPDATE tasks... " />
-            <marker date="1566343910000" expanded="true" signature="1559:1610" ph="UPDATE tasks... " />
-            <marker date="1566343910000" expanded="true" signature="1840:1881" ph="DELETE FROM " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,6 +613,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP 23 Curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task-Manager/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP23Curl/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP23Curl/c1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1938" column="0" lean-forward="false" selection-start-line="1938" selection-start-column="0" selection-end-line="1938" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP23Curl/c2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
