@@ -16,5 +16,5 @@ echo "<br>";
 
 $long_start = strpos($result,'<p class="long">')+16;
 $long_end = strpos($result,'</p>',$long_start);
-$short = substr($result,$long_start,($long_end - $long_start));
-echo "<strong>Long Meaning of {$word} is:</strong> {$short}";
+$long = substr($result,$long_start,($long_end - $long_start));
+echo "<strong>Long Meaning of {$word} is:</strong> {$long}";
