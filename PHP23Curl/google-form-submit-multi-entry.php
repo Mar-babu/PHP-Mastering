@@ -1,35 +1,35 @@
 <?php
 $data = [
     [
-        'name' => 'babu',
+        'name' => 'Corona',
         'phone' => time(),
-        'thana' => 'দেলদুয়ার',
+        'thana' => urlencode('Ghatail'),
         'dept' => 'cse',
         'int' => '30',
         'uccupation' => 'student',
-        'book option' => 'pre',
+        'book option' => urlencode('pre'),
         'payment digit' => '302',
         'fb link' => 'hjgd@dsd.com',
     ],
     [
-        'name' => 'corona',
+        'name' => 'Curl',
         'phone' => time(),
-        'thana' => 'tangail',
+        'thana' => urlencode('মধুপুর'),
         'dept' => 'corona',
         'int' => '20',
         'uccupation' => 'kill',
-        'book option' => 'fgfs',
+        'book option' => urlencode('fgfs'),
         'payment digit' => 'dfdf',
         'fb link' => 'fdf',
     ],
     [
-        'name' => 'babu',
+        'name' => 'Test Submit',
         'phone' => time(),
-        'thana' => 'মধুপুর',
+        'thana' => urlencode('মধুপুর'),
         'dept' => 'rtrr',
         'int' => 'rt',
         'uccupation' => 'rrtr',
-        'book option' => 'প্রি-পেমেন্ট করতে চান',
+        'book option' => urlencode('প্রি-পেমেন্ট করতে চান'),
         'payment digit' => 'rtrt',
         'fb link' => 'rtrt',
     ],
@@ -37,6 +37,7 @@ $data = [
 
 foreach ($data as $element){
     $ch = curl_init('https://docs.google.com/forms/u/1/d/e/1FAIpQLSfsVl4EiXiFPrR0EesXxEqB57Wuah6rnAsmGPFkVj8VdGWnVA/formResponse');
+//    $ch = curl_init('https://postman-echo.com/post');
 
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
