@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc6bfcc4-7749-49bb-8953-9c7a6e8fa683" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/m4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/phpmailer/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/phpmailer/OAuth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/phpmailer/PHPMailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/phpmailer/POP3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/phpmailer/SMTP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP16Mailing/m5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PHP16Mailing/m4.php" afterPath="$PROJECT_DIR$/PHP16Mailing/m4.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,20 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="m4.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHP16Mailing/m4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding>
-                <element signature="e#89#123#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -55,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PHP 11/১১.৪ - ক্লাসের পাবলিক এবং প্রাইভেট মেথড এবং প্রোপার্টিজ.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.৫ - একটা রিয়াল লাইফ ইউজফুল ক্লাস লেখা.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.৬ - ইনহেরিটেন্স নিয়ে আলোচনা.php" />
         <option value="$PROJECT_DIR$/PHP 11/১১.৭ - প্যারেন্ট এবং চাইল্ড ক্লাসের স্কোপ নিয়ে আলোচনা.php" />
@@ -105,6 +87,7 @@
         <option value="$PROJECT_DIR$/PHP23Curl/google-form-submit.php" />
         <option value="$PROJECT_DIR$/PHP23Curl/google-form-submit-multi-entry.php" />
         <option value="$PROJECT_DIR$/PHP16Mailing/m1.php" />
+        <option value="$PROJECT_DIR$/PHP16Mailing/m5.php" />
         <option value="$PROJECT_DIR$/PHP16Mailing/m4.php" />
       </list>
     </option>
@@ -120,8 +103,8 @@
       <path value="C:\xampp\php\php.exe" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="27" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-59" />
     <option name="width" value="906" />
     <option name="height" value="784" />
   </component>
@@ -141,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +147,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -195,28 +178,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.m4.php">
+  <component name="RunManager" selected="PHP Script.m5.php">
     <configuration name="১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
-    <configuration name="১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 13/১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
     <configuration name="১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 12/১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
     <configuration name="hello.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP23Curl/hello.php" />
     <configuration name="m1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP16Mailing/m1.php" />
     <configuration name="m4.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP16Mailing/m4.php" />
+    <configuration name="m5.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP16Mailing/m5.php" />
     <configuration name="main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP 11/ns/main.php" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.m1.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.m4.php" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.m1.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.m4.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.m5.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.m4.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.m1.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.১৩.২ - ট্রেইটের মেথড গুলোর অর্ডার বা প্রিসিডেন্স.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.m5.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.m4.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.m1.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.১২.৩ - এক্সেপশন নিয়ে আরেকটু ডিটেইলড এক্সাম্পল.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.১৩.৩ - ট্রেইটের মেথড গুলোর কনফ্লিক্ট রেজোল্যুশন ( অ্যালিয়াস তৈরী করা ).php" />
       </list>
     </recent_temporary>
   </component>
@@ -255,25 +238,26 @@
       <workItem from="1588394605069" duration="12784000" />
       <workItem from="1588674324043" duration="2290000" />
       <workItem from="1588728322897" duration="2979000" />
-      <workItem from="1588754728106" duration="5592000" />
+      <workItem from="1588754728106" duration="5832000" />
+      <workItem from="1589366841389" duration="688000" />
+      <workItem from="1589453032047" duration="3803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137517000" />
+    <option name="totallyTimeSpent" value="142248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="0" width="906" height="784" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15484634" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10363086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3364929" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35323384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81042653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30173776" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -296,13 +280,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP 11/১১.২৬ - ক্লাস ফাইল অটোলোডিং.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP 11/autoloading/planets/mars.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -591,19 +568,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHP16Mailing/m1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Task-Manager/app/application/controllers/TaskController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,9 +590,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PHP16Mailing/m5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#125#159#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP16Mailing/m1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="86" lean-forward="false" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PHP16Mailing/phpmailer/SMTP.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20488">
+        <state relative-caret-position="26">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
@@ -633,10 +618,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PHP16Mailing/m4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="-35">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
-            <element signature="e#89#123#0#PHP" expanded="true" />
+            <element signature="e#90#124#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
