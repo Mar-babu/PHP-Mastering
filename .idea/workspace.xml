@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc6bfcc4-7749-49bb-8953-9c7a6e8fa683" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PHP17Error/e1.php" afterPath="$PROJECT_DIR$/PHP17Error/e1.php" />
-    </list>
+    <list default="true" id="dc6bfcc4-7749-49bb-8953-9c7a6e8fa683" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/PHP17Error/e2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -131,8 +123,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="13" />
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
     <option name="width" value="906" />
     <option name="height" value="784" />
   </component>
@@ -266,18 +258,17 @@
       <workItem from="1589453032047" duration="3984000" />
       <workItem from="1588809142455" duration="1093000" />
       <workItem from="1588814391675" duration="2125000" />
-      <workItem from="1588866490617" duration="2599000" />
+      <workItem from="1588866490617" duration="2688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148246000" />
+    <option name="totallyTimeSpent" value="148335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="13" width="906" height="784" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="1" width="906" height="784" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10874704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10874704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -643,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/PHP17Error/e2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
