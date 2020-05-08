@@ -11,3 +11,6 @@ echo $book;
 
 
 //echo get_cfg_var("cfg_file_path"); //ei error gula amra php ini file thekeo run korte pari by php --ini or get_cfg_var
+
+
+// eroorgulo alada fdile a load kora (php.ini file a (log_errors=On) , (error_log = /tmp/php_error.txt))  see-- by command line in terminal tail -f /tmp/php_error.txt
