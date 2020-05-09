@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc6bfcc4-7749-49bb-8953-9c7a6e8fa683" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PHP17Error/e5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,10 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="e4.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="e4.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PHP17Error/e4.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e5.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PHP17Error/e5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-522">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -280,12 +291,12 @@
       <workItem from="1589453032047" duration="3984000" />
       <workItem from="1588809142455" duration="1093000" />
       <workItem from="1588814391675" duration="2125000" />
-      <workItem from="1588866490617" duration="2836000" />
+      <workItem from="1588866490617" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148483000" />
+    <option name="totallyTimeSpent" value="148539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="906" height="784" extended-state="0" />
@@ -320,13 +331,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PHP 11/ns/c1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP 11/ns/planet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -658,6 +662,14 @@
     <entry file="file://$PROJECT_DIR$/PHP17Error/e4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP17Error/e5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
